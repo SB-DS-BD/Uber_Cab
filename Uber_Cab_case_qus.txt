@@ -1,0 +1,10 @@
+Q1. What is the trend of buisness in modern cab industry in terms of cities in US?
+Q2. Which type of cab(pink/yellow) is more popular in USA?
+Q3. Is there any specific pattern of cab buisness based on geographical diversity of cities?
+Q4. Difference of ASP between the types of cab. Is there any biaseness of choosing a particular cab?
+Q5. Plot the trend of popularity of cab services over the time period.
+Q6. Show the cab booking traffic per week for each type of cab service.Is it more on weekday or weekend?
+
+
+1. How many tarasaction are given in the Pink cab and yellow cab?
+2. Revenue earned by pink can and yellow cab based on city. 
